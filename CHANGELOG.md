@@ -45,7 +45,7 @@
     - Обновлены ссылки на Present Perfect Continuous (2.5 -> 2.10)
     - Обновлены ссылки на Past Simple (2.4 -> 2.2)
 
-  - `2.5 Present Perfect Continuous.md`:
+  - `2.10 Present Perfect Continuous.md`:
     - Добавлена ссылка на сравнение с Present Perfect (2.7)
 
 ### Added
